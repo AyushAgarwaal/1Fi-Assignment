@@ -1,0 +1,6 @@
+# https://www.robotstxt.org/robotstxt.html
+User-agent: *
+Disallow:
+https://ibb.co/Q3sgBRrc
+https://ibb.co/cXrGGxFd
+https://ibb.co/pvnFXBNC
